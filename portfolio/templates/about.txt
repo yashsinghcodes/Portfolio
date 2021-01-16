@@ -1,0 +1,4 @@
+Hi, guys my name Yash Singh and i am a self taught developer. I am comfortable in Python and C language and i also worked on some freelance project related to
+python and i has submited them in time. I am also cofortable in web-development for front end i use HTML,CSS and for scripting 
+i use Javascript and for the backend i prefer Flask and Django(This website is builed on the Flask Server) currently i am in high school and my subjects are
+Physics, Chemistry, Maths and Computer Science.
